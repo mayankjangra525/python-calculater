@@ -30,4 +30,4 @@ A beginner-friendly **Python Calculator Program** that performs basic arithmetic
 ✨ Create a GUI version with Tkinter or PyQt.
 🧑‍💻 Author
 
-Made with ❤️ by Mayank (You) 🚀
+Made with ❤️ by Mayank jangra🚀
